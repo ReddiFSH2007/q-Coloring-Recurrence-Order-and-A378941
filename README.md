@@ -1,4 +1,4 @@
-# 3-Coloring of Grid Graphs: Recurrence Order Calculator
+# q-Coloring of Grid Graphs: Recurrence Order Calculator
 C++ transfer-matrix algorithm with Berlekamp-Massey for the 3-coloring of grid graphs.
 
 This repository contains a highly optimized C++ implementation for calculating the degree of the minimal polynomial (order of linear recurrence) for the transfer matrix of the 3-coloring problem on $W \times L$ grid graphs.
