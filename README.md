@@ -1,9 +1,7 @@
 # q-Coloring of Grid Graphs: Recurrence Order Calculator
-C++ transfer-matrix algorithm with Berlekamp-Massey for the 3-coloring of grid graphs.
+C++ transfer-matrix algorithm with Berlekamp-Massey for the q-coloring of grid graphs.
 
-This repository contains a highly optimized C++ implementation for calculating the degree of the minimal polynomial (order of linear recurrence) for the transfer matrix of the 3-coloring problem on $W \times L$ grid graphs.
-
-This codebase provides the empirical computational data supporting the connection between the $q=3$ antiferromagnetic Potts model transfer matrix and the restricted Motzkin paths defined in **OEIS A005717**.
+This repository contains a highly optimized C++ implementation for calculating the degree of the minimal polynomial (order of linear recurrence) for the transfer matrix of the q-coloring problem on $W \times L$ grid graphs.
 
 ## How to Run
 
